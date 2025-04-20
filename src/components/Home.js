@@ -670,10 +670,10 @@ const Home = () => {
             <Grid item xs={12} sm={6}>
               <Box sx={{ display: 'flex', justifyContent: 'flex-end', alignItems: 'center', gap: 2 }}>
                 <Typography variant="body2" sx={{ color: '#546E7A' }}>
-                  Developed with ❤️ by Sagar Gondaliya
+                  Developed with ❤️ by Madhavi Bhatt
                 </Typography>
                 <Link
-                  href="https://github.com/Sagar610"
+                  href="https://github.com/Madhavi-Bhatt"
                   target="_blank"
                   rel="noopener noreferrer"
                   sx={{
@@ -688,7 +688,7 @@ const Home = () => {
                   <GitHubIcon sx={{ fontSize: 24 }} />
                 </Link>
                 <Link
-                  href="https://linkedin.com/in/sagar-gondaliya"
+                  href="https://www.linkedin.com/in/madhavi-bhatt/"
                   target="_blank"
                   rel="noopener noreferrer"
                   sx={{
