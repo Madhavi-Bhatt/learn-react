@@ -1,0 +1,47 @@
+.verification-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  background: #f5f5f5;
+}
+
+.verification-content {
+  max-width: 600px;
+  width: 100%;
+  padding: 3rem;
+  text-align: center;
+  background: linear-gradient(45deg, #ffffff 30%, #f8f9fa 90%);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.verified-name {
+  color: #1976d2;
+  font-weight: bold;
+  margin: 2rem 0;
+}
+
+.verified-score {
+  color: #28a745;
+  font-weight: bold;
+  margin: 1rem 0;
+}
+
+.verified-date {
+  color: #666;
+  margin: 1rem 0;
+}
+
+.certificate-id {
+  color: #666;
+  font-style: italic;
+  margin: 1rem 0;
+  word-break: break-all;
+}
+
+.verification-note {
+  margin-top: 2rem;
+  color: #666;
+  font-style: italic;
+} 
